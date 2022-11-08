@@ -2,7 +2,7 @@
  Web scraping using beautifulsoup4 and python
 
 
-"""
+```
 
 
 #webscraping by jetbrains
@@ -88,4 +88,4 @@
           print(clean_title + " saved successfully")
   
       os.chdir(default_dir)
-"""
+```
